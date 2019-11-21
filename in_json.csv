@@ -1,0 +1,108 @@
+,UserID,Gender,Age,Occupation,Zip-code,zip,city_name,state_name,county_name,zip_code,city,state,county,same
+11,12,M,25,12,32793,,,,,32793,Winter Park,Florida,Orange,False
+52,53,M,25,0,96931,,,,,96931,Tamuning,Guam,Guam,False
+130,131,M,18,4,6520,,,,,6520,New Haven,Connecticut,New Haven,False
+173,174,M,25,16,21203,,,,,21203,Baltimore,Maryland,Baltimore,False
+295,296,M,50,5,89432,,,,,89432,Sparks,Nevada,Washoe,False
+390,391,M,45,11,22122,,,,,22122,Newington,Virginia,Fairfax,False
+504,505,M,35,17,37815,,,,,37815,Morristown,Tennessee,Hamblen,False
+568,569,F,18,4,97339,,,,,97339,Corvallis,Oregon,Benton,False
+662,663,F,25,7,12345,,,,,12345,Schenectady,New York,Schenectady,False
+699,700,M,50,17,14650,,,,,14650,Rochester,New York,Monroe,False
+733,734,M,25,7,90078,,,,,90078,Los Angeles,California,Los Angeles,False
+781,782,M,56,1,28223,,,,,28223,Charlotte,North Carolina,Mecklenburg,False
+811,812,M,25,6,37930,,,,,37930,Knoxville,Tennessee,Knox,False
+878,879,M,45,16,92018,,,,,92018,Carlsbad,California,San Diego,False
+889,890,M,18,4,92153,,,,,92153,San Diego,California,San Diego,False
+994,995,F,18,4,96803,,,,,96803,Honolulu,Hawaii,Honolulu,False
+1193,1194,F,25,1,95617,,,,,95617,Davis,California,Yolo,False
+1269,1270,M,25,6,12230,,,,,12230,Albany,New York,Albany,False
+1338,1339,M,35,18,85275,,,,,85275,Mesa,Arizona,Maricopa,False
+1366,1367,M,25,12,53707,,,,,53707,Madison,Wisconsin,Dane,False
+1378,1379,F,56,13,93448,,,,,93448,Pismo Beach,California,San Luis Obispo,False
+1380,1381,M,18,11,89170,,,,,89170,Las Vegas,Nevada,Clark,False
+1392,1393,M,18,4,6430,,,,,6430,Fairfield,Connecticut,Fairfield,False
+1441,1442,M,18,2,12345,,,,,12345,Schenectady,New York,Schenectady,False
+1494,1495,M,18,0,77341,,,,,77341,Huntsville,Texas,Walker,False
+1523,1524,M,18,4,6459,,,,,6459,Middletown,Connecticut,Middlesex,False
+1609,1610,M,25,11,55555,,,,,55555,Young America,Minnesota,Carver,False
+1631,1632,M,25,16,94120,,,,,94120,San Francisco,California,San Francisco,False
+1708,1709,M,25,0,73147,,,,,73147,Oklahoma City,Oklahoma,Oklahoma,False
+1785,1786,M,45,1,85721,,,,,85721,Tucson,Arizona,Pima,False
+1877,1878,M,1,10,92846,,,,,92846,Garden Grove,California,Orange,False
+1939,1940,M,25,12,95158,,,,,95158,San Jose,California,Santa Clara,False
+1943,1944,F,18,4,93107,,,,,93107,Santa Barbara,California,Santa Barbara,False
+1959,1960,M,45,7,55555,,,,,55555,Young America,Minnesota,Carver,False
+2066,2067,M,50,16,6430,,,,,6430,Fairfield,Connecticut,Fairfield,False
+2083,2084,M,18,4,23186,,,,,23186,Williamsburg,Virginia,Williamsburg City,False
+2136,2137,F,1,10,681,,,,,681,Mayaguez,Puerto Rico,Mayaguez,False
+2172,2173,M,50,13,87502,,,,,87502,Santa Fe,New Mexico,Santa Fe,False
+2196,2197,F,25,1,27515,,,,,27515,Chapel Hill,North Carolina,Orange,False
+2271,2272,M,25,0,71731,,,,,71731,El Dorado,Arkansas,Union,False
+2294,2295,M,45,11,72316,,,,,72316,Blytheville,Arkansas,Mississippi,False
+2324,2325,F,18,4,27708,,,,,27708,Durham,North Carolina,Durham,False
+2341,2342,M,35,3,48107,,,,,48107,Ann Arbor,Michigan,Washtenaw,False
+2502,2503,M,35,17,19360,,,,,19360,New London,Pennsylvania,Chester,False
+2509,2510,M,25,7,37930,,,,,37930,Knoxville,Tennessee,Knox,False
+2690,2691,M,18,4,6459,,,,,6459,Middletown,Connecticut,Middlesex,False
+2712,2713,M,25,7,96811,,,,,96811,Honolulu,Hawaii,Honolulu,False
+2758,2759,M,25,7,36102,,,,,36102,Montgomery,Alabama,Montgomery,False
+2769,2770,M,35,1,14260,,,,,14260,Buffalo,New York,Erie,False
+2772,2773,M,35,2,78766,,,,,78766,Austin,Texas,Travis,False
+2799,2800,F,18,4,73070,,,,,73070,Norman,Oklahoma,Cleveland,False
+2827,2828,M,18,4,2454,,,,,2454,Waltham,Massachusetts,Middlesex,False
+2843,2844,M,25,20,87103,,,,,87103,Albuquerque,New Mexico,Bernalillo,False
+2906,2907,F,35,5,12345,,,,,12345,Schenectady,New York,Schenectady,False
+2944,2945,F,35,17,89507,,,,,89507,Reno,Nevada,Washoe,False
+2992,2993,M,18,19,12133,,,,,12133,North Hoosick,New York,Rensselaer,False
+3013,3014,M,35,7,6430,,,,,6430,Fairfield,Connecticut,Fairfield,False
+3080,3081,M,25,7,77252,,,,,77252,Houston,Texas,Harris,False
+3088,3089,M,45,16,93448,,,,,93448,Pismo Beach,California,San Luis Obispo,False
+3113,3114,M,18,5,65211,,,,,65211,Columbia,Missouri,Boone,False
+3134,3135,M,25,15,12345,,,,,12345,Schenectady,New York,Schenectady,False
+3146,3147,M,25,14,49355,,,,,49355,Ada,Michigan,Kent,False
+3333,3334,M,35,0,9142,,,,,9142,Apo,AE,,False
+3355,3356,M,35,7,95031,,,,,95031,Los Gatos,California,Santa Clara,False
+3374,3375,M,25,4,89193,,,,,89193,Las Vegas,Nevada,Clark,False
+3380,3381,M,25,0,96671,,,,,96671,FPO,AP,,False
+3405,3406,F,25,7,85214,,,,,85214,Mesa,Arizona,Maricopa,False
+3490,3491,M,25,16,28542,,,,,28542,Camp Lejeune,North Carolina,Onslow,False
+3590,3591,M,35,6,96158,,,,,96158,South Lake Tahoe,California,El Dorado,False
+3626,3627,F,35,1,85287,,,,,85287,Tempe,Arizona,Maricopa,False
+3652,3653,M,18,15,96661,,,,,96661,FPO,AP,,False
+3735,3736,M,35,1,44242,,,,,44242,Kent,Ohio,Portage,False
+3748,3749,F,25,0,60664,,,,,60664,Chicago,Illinois,Cook,False
+3750,3751,F,35,12,55555,,,,,55555,Young America,Minnesota,Carver,False
+3816,3817,M,35,3,20122,,,,,20122,Centreville,Virginia,Fairfax,False
+3884,3885,M,25,12,92728,,,,,92728,Fountain Valley,California,Orange,False
+3918,3919,M,45,0,73702,,,,,73702,Enid,Oklahoma,Garfield,False
+3968,3969,M,56,7,12345,,,,,12345,Schenectady,New York,Schenectady,False
+3981,3982,M,56,13,95929,,,,,95929,Chico,California,Butte,False
+4067,4068,M,56,3,89185,,,,,89185,Las Vegas,Nevada,Clark,False
+4069,4070,M,25,15,93107,,,,,93107,Santa Barbara,California,Santa Barbara,False
+4117,4118,M,25,3,91221,,,,,91221,Glendale,California,Los Angeles,False
+4270,4271,M,35,7,83405,,,,,83405,Idaho Falls,Idaho,Bonneville,False
+4277,4278,F,45,7,9094,,,,,9094,Apo,AE,,False
+4319,4320,M,25,5,89114,,,,,89114,Las Vegas,Nevada,Clark,False
+4494,4495,M,18,4,22906,,,,,22906,Charlottesville,Virginia,Charlottesville,False
+4628,4629,F,18,4,94309,,,,,94309,Palo Alto,California,Santa Clara,False
+4643,4644,M,50,1,19481,,,,,19481,Valley Forge,Pennsylvania,Chester,False
+4694,4695,M,18,18,56002,,,,,56002,Mankato,Minnesota,Blue Earth,False
+4766,4767,F,35,9,3769,,,,,3769,Lyme Center,New Hampshire,Grafton,False
+4849,4850,F,45,3,44555,,,,,44555,Youngstown,Ohio,Mahoning,False
+5103,5104,M,35,20,19108,,,,,19108,Philadelphia,Pennsylvania,Philadelphia,False
+5185,5186,M,35,12,96555,,,,,96555,APO,AP,,False
+5357,5358,M,35,7,10625,,,,,10625,White Plains,New York,Westchester,False
+5399,5400,F,18,4,30010,,,,,30010,Norcross,Georgia,Gwinnett,False
+5484,5485,M,25,4,8544,,,,,8544,Princeton,New Jersey,Mercer,False
+5487,5488,M,25,15,91125,,,,,91125,Pasadena,California,Los Angeles,False
+5506,5507,M,45,7,44325,,,,,44325,Akron,Ohio,Summit,False
+5530,5531,M,50,17,9056,,,,,9056,Apo,AE,,False
+5552,5553,M,35,3,29425,,,,,29425,Charleston,South Carolina,Charleston,False
+5612,5613,F,35,0,98622,,,,,98622,Heisson,Washington,Clark,False
+5639,5640,M,35,17,78765,,,,,78765,Austin,Texas,Travis,False
+5715,5716,M,1,10,3756,,,,,3756,Lebanon,New Hampshire,Grafton,False
+5727,5728,F,35,20,9824,,,,,9824,Apo,AE,,False
+5781,5782,F,35,0,55459,,,,,55459,Minneapolis,Minnesota,Hennepin,False
+5884,5885,M,25,1,96930,,,,,96930,Talofofo,Guam,Guam,False
+5932,5933,M,25,2,98227,,,,,98227,Bellingham,Washington,Whatcom,False
